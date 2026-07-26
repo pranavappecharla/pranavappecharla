@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1e3a5f,70:38bdf8,100:a78bfa&height=230&section=header&text=SAI%20PRANAV&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.S.%20Computer%20Science%20%E2%80%A2%20UMass%20Amherst&descAlignY=58&descSize=16&fontFamily=JetBrains%20Mono" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1e3a5f,70:38bdf8,100:a78bfa&height=230&section=header&text=PRANAV%20APPECHARLA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.S.%20Computer%20Science%20%E2%80%A2%20UMass%20Amherst&descAlignY=58&descSize=16&fontFamily=JetBrains%20Mono" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=%3E+building+with+AI%2C+not+just+prompting+it;%3E+cloud+infra+%26+distributed+systems;%3E+shipping+%3E+theorizing;%3E+always+compiling..." alt="typing" />
 
