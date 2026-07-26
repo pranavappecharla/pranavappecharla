@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1e3a5f,70:38bdf8,100:a78bfa&height=230&section=header&text=PRANAV%20APPECHARLA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.S.%20Computer%20Science%20%E2%80%A2%20UMass%20Amherst&descAlignY=58&descSize=16&fontFamily=JetBrains%20Mono" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=%3E+building+with+AI%2C+not+just+prompting+it;%3E+cloud+infra+%26+distributed+systems;%3E+shipping+%3E+theorizing;%3E+always+compiling..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=%3E+building+with+AI%2C+not+just+prompting+it;%3E+cloud+computing+%26+real+systems;%3E+shipping+%3E+theorizing;%3E+always+compiling..." alt="typing" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 ```yaml
 name:        Sai Pranav Appecharla Venkata
 school:      UMass Amherst — B.S. Computer Science
-focus:       [ AI/ML, Cloud Computing, Distributed Systems ]
+focus:       [ Artificial Intelligence, Cloud Computing ]
 seeking:     Summer 2027 SWE / AI internships — Boston • NYC • Northeast
 philosophy:  "don't use AI, wield it."
 status:      compiling...
@@ -47,10 +47,17 @@ status:      compiling...
 
 ## 📊 &nbsp;`~/stats`
 
+<!-- ============================================================
+     REPLACE  YOUR-INSTANCE.vercel.app  IN THE TWO URLS BELOW
+     with the URL Vercel gives you after deploying your fork of
+     anuraghazra/github-readme-stats  (with PAT_1 env var set).
+     Until then these two cards will show an error.
+     ============================================================ -->
+
 <div align="center">
 
-<img src="https://github-readme-stats-eight.vercel.app/api?username=pranavappecharla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavappecharla&hide_border=true&background=0D1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937" width="49%" />
+<img src="https://YOUR-INSTANCE.vercel.app/api?username=pranavappecharla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com?user=pranavappecharla&hide_border=true&background=0D1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937" width="49%" />
 
 <br/><br/>
 
@@ -58,7 +65,7 @@ status:      compiling...
 
 <br/>
 
-<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=pranavappecharla&layout=compact&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="42%" />
+<img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=pranavappecharla&layout=compact&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="42%" />
 
 <br/><br/>
 
@@ -72,6 +79,9 @@ status:      compiling...
 
 <div align="center">
 
+<a href="https://calendly.com/pranav-appecharla/30min">
+  <img src="https://img.shields.io/badge/Book_30_min-3DD6C4?style=for-the-badge&logo=googlecalendar&logoColor=0D1117&labelColor=0D1117" />
+</a>
 <a href="https://linkedin.com/in/pranavappecharla">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
