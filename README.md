@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/badge/BASED_IN-AMHERST,_MA-a78bfa?style=for-the-badge&labelColor=0D1117" />
 <img src="https://komarev.com/ghpvc/?username=pranavappecharla&label=VISITORS&color=38bdf8&style=for-the-badge" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
@@ -45,35 +43,51 @@ status:      compiling...
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## 📊 &nbsp;`~/stats`
+## 🎓 &nbsp;`~/certifications`
 
-<!-- ============================================================
-     REPLACE  YOUR-INSTANCE.vercel.app  IN THE TWO URLS BELOW
-     with the URL Vercel gives you after deploying your fork of
-     anuraghazra/github-readme-stats  (with PAT_1 env var set).
-     Until then these two cards will show an error.
-     ============================================================ -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/Anthropic_Academy-9_courses-D97757?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/IIT_Jammu-Python_%26_AI-38bdf8?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+`Claude 101` · `Claude Code 101` · `Claude Code in Action` · `Model Context Protocol` · `Agent Skills` · `Claude Cowork` · `AI Fluency: Framework & Foundations` · `AI Fluency: Capabilities & Limitations` · `AI Fluency for Students`
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+
+## 🛠️ &nbsp;`~/building`
+
+**C.A.L.I.G.O.** — *in progress*
+A personal assistant agent. Cognitive Architecture for Logic, Inference & Generative Optimization. Testing how far context, tools, and memory carry an agent before it needs a human in the loop.
+
+**First preprint** — *upcoming*
+A survey of why current methods for catching AI citation errors work on benchmarks and break on real documents.
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════
+     STATS SECTION — currently disabled.
+     Uncomment once you have a few months of commit history AND
+     you've deployed your own fork of anuraghazra/github-readme-stats
+     to Vercel with a PAT_1 env var set. Then replace
+     YOUR-INSTANCE.vercel.app with your Vercel URL.
+
+## 📊 &nbsp;`~/stats`
 
 <div align="center">
 
 <img src="https://YOUR-INSTANCE.vercel.app/api?username=pranavappecharla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&rank_icon=github" width="49%" />
 <img src="https://streak-stats.demolab.com?user=pranavappecharla&hide_border=true&background=0D1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937" width="49%" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavappecharla&bg_color=0D1117&color=38bdf8&line=a78bfa&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
-
 <br/>
 
 <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=pranavappecharla&layout=compact&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="42%" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranavappecharla&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="92%" />
-
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+     ══════════════════════════════════════════════════════════════ -->
 
 ## 🔗 &nbsp;`~/connect`
 
@@ -93,10 +107,6 @@ status:      compiling...
 </a>
 
 <br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,30:38bdf8,70:1e3a5f,100:0D1117&height=140&section=footer" width="100%" />
 
