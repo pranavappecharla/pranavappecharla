@@ -49,7 +49,7 @@ status:      compiling...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavappecharla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats-eight.vercel.app/api?username=pranavappecharla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavappecharla&hide_border=true&background=0D1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937" width="49%" />
 
 <br/><br/>
@@ -58,7 +58,7 @@ status:      compiling...
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavappecharla&layout=compact&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="42%" />
+<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=pranavappecharla&layout=compact&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="42%" />
 
 <br/><br/>
 
