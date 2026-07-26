@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/BASED_IN-AMHERST,_MA-a78bfa?style=for-the-badge&labelColor=0D1117" />
 <img src="https://komarev.com/ghpvc/?username=pranavappecharla&label=VISITORS&color=38bdf8&style=for-the-badge" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
