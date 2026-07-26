@@ -71,27 +71,18 @@ A survey of why current methods for catching AI citation errors work on benchmar
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-<!-- ══════════════════════════════════════════════════════════════
-     STATS SECTION — currently disabled.
-     Uncomment once you have a few months of commit history AND
-     you've deployed your own fork of anuraghazra/github-readme-stats
-     to Vercel with a PAT_1 env var set. Then replace
-     YOUR-INSTANCE.vercel.app with your Vercel URL.
-
 ## 📊 &nbsp;`~/stats`
 
 <div align="center">
 
-<img src="https://YOUR-INSTANCE.vercel.app/api?username=pranavappecharla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats-orion-0ef8.vercel.app/api?username=pranavappecharla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&ring_color=38bdf8&include_all_commits=true&rank_icon=github" width="49%" />
 <img src="https://streak-stats.demolab.com?user=pranavappecharla&hide_border=true&background=0D1117&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&stroke=1f2937" width="49%" />
 
 <br/>
 
-<img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=pranavappecharla&layout=compact&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="42%" />
+<img src="https://github-readme-stats-orion-0ef8.vercel.app/api/top-langs/?username=pranavappecharla&layout=compact&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" width="42%" />
 
 </div>
-
-     ══════════════════════════════════════════════════════════════ -->
 
 ## 🔗 &nbsp;`~/connect`
 
