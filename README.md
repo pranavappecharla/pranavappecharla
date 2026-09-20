@@ -25,8 +25,6 @@ name:        Sai Pranav Appecharla Venkata
 school:      UMass Amherst — B.S. Computer Science
 focus:       [ Artificial Intelligence, Cloud Computing ]
 seeking:     Summer 2027 SWE / AI internships — Boston • NYC • Northeast
-philosophy:  "don't use AI, wield it."
-status:      compiling...
 ```
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
